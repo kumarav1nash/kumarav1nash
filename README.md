@@ -7,7 +7,7 @@
 <ul>
   <li>🎓  I’m a Passionate software developer  & an Open-Source enthusiast </br></li>
   <li>👨‍💻  I love solving complex software engineering problem & I enjoy learning new things. </br></li>
-  <li>🌱 I have keen interests in Open source, motion design , cloud computing , web development, data analytics and OpenCV.</li>
+  <li>🌱 I have keen interests in Open source, motion design and web development.</li>
   <li>😸 I’m looking forward to collaborate on any emerging technologies. </li>
   <li>📫 If you have a project idea in mind, hit me up! let's develop something cool together !!</li>
   <li>🎄 Connect with me on linkedin <a  href="https://www.linkedin.com/in/kumarav1nash/" target="black" alt=KXDLS> <img style="margin-top:-16px;" src= 'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' height="30" width="40" /> </a></li>
