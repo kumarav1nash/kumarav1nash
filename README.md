@@ -16,8 +16,6 @@
 <h3 align="left">Know my stats 👀</h3>
 <img  src="https://github-profile-trophy.vercel.app/?username=everly-gif&theme=juicyfresh&no-bg=true" alt="everly-gif"><br>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=kumarav1nash&show_icons=true&locale=en" alt="Avinash" ></p>
-<h3 align="center"> 📈 My Contribution Graph </h3>
- <a href="https://github.com/kumarav1nash"><img src="https://activity-graph.herokuapp.com/graph?username=kumarav1nash&theme=elegant" alt="Avinash's GitHub Activity Graph"></a><br/><br/> 
 
 <!--
 **kumarav1nash/kumarav1nash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
