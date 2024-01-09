@@ -18,8 +18,6 @@
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=kumarav1nash&show_icons=true&locale=en" alt="Avinash" ></p>
 <h3 align="center"> 📈 My Contribution Graph </h3>
  <a href="https://github.com/kumarav1nash"><img src="https://activity-graph.herokuapp.com/graph?username=kumarav1nash&theme=elegant" alt="Avinash's GitHub Activity Graph"></a><br/><br/> 
-<h3 align="center">Streaks 🔥</h3>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kumarav1nash&theme=light" alt="Avinash" width="70%"></p><br><br>
 
 <!--
 **kumarav1nash/kumarav1nash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
